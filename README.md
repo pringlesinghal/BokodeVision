@@ -58,6 +58,7 @@ This allows you to manually control the LEDs by entering commands (0, 1, 2, or 3
 - `serial_communication_test.py`: Test script for Arduino communication
 - `requirements.txt`: Python dependencies
 - `optical_housing.blend`: 3D model of the optical housing. Export as STL for 3D printing. Before exporting, make sure to merge all the parts (apply all transforms) and delete any hidden parts.
+- `print.xcf`: 5x5 mm icons for the e6 transparency slide
 
 ## License
 This project was developed for the CS448I/EE367 Computational Imaging course at Stanford University.
